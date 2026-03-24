@@ -47,4 +47,6 @@ Chromatogram overlay
 <img width="1556" height="803" alt="Overlay" src="https://github.com/user-attachments/assets/f8a13e41-53fd-485d-a08f-775afe0e8268" />
 Data output to CSV and PNG
 <img width="1471" height="711" alt="CSV_output_example" src="https://github.com/user-attachments/assets/f8129b8a-7320-4279-8be1-9660f74cb37b" />
+<img width="939" height="431" alt="Data_output" src="https://github.com/user-attachments/assets/63cb1639-f941-4821-9daf-dc57e921a14d" />
+
 
