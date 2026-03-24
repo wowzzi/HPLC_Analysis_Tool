@@ -15,5 +15,23 @@ opening the full Chromeleon software suite.
 - Interpolate protein molecular weight for SEC data via in-built calibration loop
 - Export data to CSV
 
-# installation
-git clone 
+# Installation
+git clone https://github.com/wowzzi/HPLC_Analysis_Tool.git
+cd HPLC_Analysis_Tool
+pip install -r requirements.txt
+
+# Dependencies
+ - pandas
+ - matplotlib
+ - scipy
+ - numpy
+
+# How to use
+python main.py
+1. Launch program
+2. Type 0 to select a folder containing .CSV files from a chromeleon HPLC run.
+3. Type the various numbers from the menu to analyse/visualize/export the data.
+<img width="821" height="351" alt="Main_menu" src="https://github.com/user-attachments/assets/02b06348-8a08-4059-b2de-73061b1d8540" />
+
+
+# Example outputs
