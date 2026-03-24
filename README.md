@@ -34,6 +34,7 @@ python main.py
 <img width="821" height="351" alt="Main_menu" src="https://github.com/user-attachments/assets/02b06348-8a08-4059-b2de-73061b1d8540" />
 
 Example data import
+
 <img width="355" height="382" alt="Data_import" src="https://github.com/user-attachments/assets/db18dfbc-8a34-4cc1-8a68-8976e442bfd2" />
 
 
