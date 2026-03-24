@@ -41,7 +41,10 @@ Example data import
 
 # Example outputs
 <img width="1559" height="811" alt="Ferritin_chromatogram" src="https://github.com/user-attachments/assets/017a34aa-1ef7-4616-b337-6b552477698a" />
+Size-exclusion chromatography calibration
 <img width="916" height="641" alt="Linear_Calibration" src="https://github.com/user-attachments/assets/32f338ed-0768-46d4-9abc-6a7b7ac87e7c" />
+Chromatogram overlay
 <img width="1556" height="803" alt="Overlay" src="https://github.com/user-attachments/assets/f8a13e41-53fd-485d-a08f-775afe0e8268" />
+Data output to CSV and PNG
 <img width="1471" height="711" alt="CSV_output_example" src="https://github.com/user-attachments/assets/f8129b8a-7320-4279-8be1-9660f74cb37b" />
 
