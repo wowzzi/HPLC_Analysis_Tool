@@ -16,8 +16,8 @@ opening the full Chromeleon software suite.
 - Export data to CSV
 
 # Installation
-git clone https://github.com/wowzzi/HPLC_Analysis_Tool.git
-cd HPLC_Analysis_Tool
+git clone https://github.com/wowzzi/HPLC_Analysis_Tool.git \n
+cd HPLC_Analysis_Tool \n
 pip install -r requirements.txt
 
 # Dependencies
